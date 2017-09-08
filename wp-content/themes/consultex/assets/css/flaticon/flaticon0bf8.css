@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 29/06/2017 08:43
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-profile:before { content: "\f100"; }
+.flaticon-note:before { content: "\f101"; }
+.flaticon-medal:before { content: "\f102"; }
+
+
+
+
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/07/2017 06:50
+  	*/
+
+@font-face {
+  font-family: "Flaticon1";
+  src: url("Flaticon1.eot");
+  src: url("Flaticon1d41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon1.woff") format("woff"),
+       url("Flaticon1.ttf") format("truetype"),
+       url("Flaticon1.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon1";
+    src: url("Flaticon1.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon1-"]:before, [class*=" flaticon1-"]:before,
+[class^="flaticon1-"]:after, [class*=" flaticon1-"]:after {   
+  font-family: Flaticon1;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon1-money:before { content: "\f100"; }
+.flaticon1-connection:before { content: "\f101"; }
+.flaticon1-graphic:before { content: "\f102"; }
